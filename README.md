@@ -7,7 +7,7 @@ This is a sample portfolio project built with HTML and Javascript
 -Grid and Flex
 -Footer
 
-##Demo
+## Demo
 Visit from your web brouser:
 
 https://miragift.github.io/portfolio/
